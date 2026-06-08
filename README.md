@@ -1,0 +1,1 @@
+Sheakh Super Shop হলো একটি আধুনিক ও responsive local shop website, যা একটি ছোট ব্যবসাকে online presence দেওয়ার জন্য তৈরি করা হয়েছে। এই ওয়েবসাইটটি HTML, CSS এবং JavaScript ব্যবহার করে ডিজাইন করা হয়েছে, যা beginner-friendly এবং সহজে ব্যবহারযোগ্য।
